@@ -1,0 +1,103 @@
+
+
+
+
+
+/* nav bar */
+
+ 
+#navbar ul { 
+	/* margin: 0; 
+	padding: 15px; 
+	list-style-type: none;  */
+	text-align: center; 
+	/* background-color: #000;  */
+	} 
+ 
+#navbar ul li {  
+  
+  display: inline-flex;
+  padding: .1em; 
+	} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: 1em 1em; 
+	color: #fff; 
+	background-color: #000; 
+	} 
+ 
+#navbar ul li a:hover { 
+	color: #000; 
+	background-color: #fff; 
+	} 
+ 
+
+
+
+/* links */
+
+
+ 
+/* content */
+
+
+p {
+  font-size: absolute;
+text-align: center;
+position: absolute;
+left:50%;
+top: 30%;
+
+}
+
+.s1 {
+width: 50%;
+position: relative;
+left:50%;
+top: 30%;
+padding: .5em;
+}
+
+.s2 {
+width: 50%;
+position: relative;
+left:50%;
+top: 30%;
+padding: .5em;
+}
+
+.s3 {
+width: 50%;
+position: relative;
+left:50%;
+top: 30%;
+padding: .5em;
+}
+
+
+
+  /* holding aces */
+  .bottom1 {
+    
+    position: fixed;
+    width: 45%;
+    position: bottom;
+    bottom: 0%;
+    max-height: 80%;
+
+   
+      }
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
